@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Title 1",
+    "article": "Article Number 1",
+    "author": "Ali",
+    "category": "Science"
+  },
+  {
+    "id": "2",
+    "title": "Title 2",
+    "article": "Article Number 2",
+    "author": "Mahmoud",
+    "category": "Science"
+  },
+  {
+    "id": "3",
+    "title": "Title 3",
+    "article": "Article Number 3",
+    "author": "Osama",
+    "category": "Education"
+  },
+  {
+    "id": "4",
+    "title": "Title 4",
+    "article": "Article Number 4",
+    "author": "Sayed",
+    "category": "Science"
+  },
+  {
+    "id": "5",
+    "title": "Title 5",
+    "article": "Article Number 5",
+    "author": "Ahmed",
+    "category": "Art"
+  }
+]
